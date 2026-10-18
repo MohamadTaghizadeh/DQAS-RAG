@@ -17,6 +17,7 @@ git clone https://github.com/MohamadTaghizadeh/DQAS-RAG.git
 
 Log in to the GitHub profile >> Write the Code >> Then:
 ```bash
+git status
 git add .\name.format
 git commit -m "message"
 git push
@@ -28,4 +29,26 @@ git push
 `Output: Text`
 
 ### `Dive Deeper: `
+Upload Document >> Make a Model >> Ask your Questions >> Receive the Answers Based on the Uploaded Document
 
+
+## Environment Configurations
+Make an environment `env` in the root for the main project, not to publish on gitHub:
+
+```bash
+
+```
+
+## Project Structure
+Project tree:
+
+```bash
+DQAS-RAG/
+├── utils/
+├── generator/
+├── model/
+|   ├── .gitignore
+├── sample_data/
+
+
+```
