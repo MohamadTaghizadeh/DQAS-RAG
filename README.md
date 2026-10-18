@@ -47,7 +47,7 @@ DQAS-RAG/
 ├── utils/
 ├── generator/
 ├── model/
-|   ├── .gitignore
+    ├── .gitignore
 ├── sample_data/
 
 
