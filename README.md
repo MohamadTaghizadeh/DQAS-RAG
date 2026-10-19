@@ -4,7 +4,7 @@ Document-based Question Answering System (RAG)
 ### Updating...
 
 ### install Python == 3.13
-`VSCode >> CTRL+SHFT+P >> Select interpretor >> Python 3.13`
+`VSCode >> CTRL+SHFT+P >> Select interpretor >> Python 3.13.12`
 
 ### Clone repo
 ```bash
@@ -36,6 +36,7 @@ Upload Document >> Make a Model >> Ask your Questions >> Receive the Answers Bas
 Make an environment `env` in the root for the main project, not to publish on gitHub:
 
 ```bash
+py -m venv .env
 
 ```
 
